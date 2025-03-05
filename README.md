@@ -1,4 +1,4 @@
-## Ola, eu sou Roberth Gabriel
+## Olá, eu sou Roberth Gabriel
 
    Linguagens de Programação que Uso
 
